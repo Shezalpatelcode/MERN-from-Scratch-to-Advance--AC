@@ -1,0 +1,13 @@
+h1{
+          color: rgb(61, 92, 185);
+          background-color: rgb(183, 243, 223);  
+        }
+p{
+  color:rgb(120, 0, 120);
+  background-color: aquamarine;
+  
+}
+button{
+  color: darkgoldenrod;
+  background: black;
+}
